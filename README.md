@@ -1,2 +1,2 @@
 # Quick-projects
-quick projects that I have made just for fun and felt like sharing.
+This repository is just for general things I have worked on and felt worthy of displaying on my github.
