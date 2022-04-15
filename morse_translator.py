@@ -55,7 +55,7 @@ letters_to_morse = {
 }
 
 def morse_code(phrase):
-    print('input something to make translate')
+    print('input something to translate')
     translation = ''
     for letter in phrase:
         translation += letters_to_morse[letter]
