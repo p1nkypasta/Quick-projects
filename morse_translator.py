@@ -61,5 +61,4 @@ def morse_code(phrase):
         translation += letters_to_morse[letter]
     print(translation)
 
-morse_code(input('--->'))
-
+morse_code(input('input phrase to translate --->'))
